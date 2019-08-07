@@ -1,6 +1,6 @@
 import Vue from 'vue';
 import VeeValidate from 'vee-validate';
-
+import vSelect from "vue-select"
 
 import { store } from './_store';
 import { router } from './_helpers';
